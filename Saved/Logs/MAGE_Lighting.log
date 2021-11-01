@@ -1458,3 +1458,29 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.01-19.28.14:617][846]OBJ SavePackage: Finished generating thumbnails for package [/Game/geo/Interior_wall]
 [2021.11.01-19.28.14:624][846]LogSavePackage: Moving 'E:/Game Development/Unreal Engine Projects/MAGE_Lighting/MAGE_Lighting/Saved/Interior_wall_Auto2F1F4621D4698B386A993AD9BB700A572.tmp' to 'E:/Game Development/Unreal Engine Projects/MAGE_Lighting/MAGE_Lighting/Saved/Autosaves/Game/geo/Interior_wall_Auto2.uasset'
 [2021.11.01-19.28.14:625][846]LogFileHelpers: Auto-saving content packages took 0.025
+[2021.11.01-19.29.21:725][587]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.11.01-19.29.21:725][587]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2021.11.01-19.29.21:725][587]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.11.01-19.29.21:725][587]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2021.11.01-19.29.21:725][587]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.11.01-19.29.21:725][587]LogWindows: Warning: URL: C:\Users\Admin\AppData\Local/Programs/Git/cmd/git.exe version
+[2021.11.01-19.29.21:725][587]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.11.01-19.29.21:725][587]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2021.11.01-19.29.21:725][587]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.11.01-19.29.21:725][587]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2021.11.01-19.29.21:725][587]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.11.01-19.29.21:725][587]LogWindows: Warning: URL: C:\Users\Admin\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2021.11.01-19.29.21:725][587]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.11.01-19.29.21:725][587]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2021.11.01-19.29.34:026][331]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.11.01-19.29.34:026][331]LogWindows: Warning: URL: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/https://github.com/Richard-Banks/MAGE_Lighting.git version
+[2021.11.01-19.29.37:191][709]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.11.01-19.29.37:192][709]LogWindows: Warning: URL: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/https://github.com/Richard-Banks/MAGE_Lighting.git version
+[2021.11.01-19.29.37:192][709]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2021.11.01-19.30.14:661][677]LogSlate: Window 'Message' being destroyed
+[2021.11.01-19.30.14:664][677]Message dialog closed, result: Yes, title: Message, text: Plugin 'Git' is a beta version and might be unstable or removed without notice. Please use with caution. Are you sure you want to enable the plugin?
+[2021.11.01-19.30.57:370][209]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.11.01-19.30.57:370][209]LogWindows: Warning: URL: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/https://github.com/Richard-Banks/MAGE_Lighting.git version
+[2021.11.01-19.30.57:370][209]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2021.11.01-19.31.06:313][225]SourceControl: Source control is disabled
+[2021.11.01-19.31.06:313][225]LogSlate: Window 'Source Control Login' being destroyed
